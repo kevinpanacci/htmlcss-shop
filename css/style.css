@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.prima-riga {
+    margin: 10px;
+    height: 210px;
+    width: 640px;
+}
+
+.seconda-riga {
+    margin: 0px 10px;
+    height: 210px;
+    width: 640px;
+}
+
+.obj {
+    display: inline-block;
+    background-color: lightgreen;
+    height: 200px;
+    width: 300px;
+}
+
+img {
+    height: 170px;
+    width: 170px;
+    margin: 0 15%;
+}
+
+.sale {
+    background-color: green;
+    height: 20px;
+    width: 70px;
+    position: relative;
+    left: 230px;
+}
